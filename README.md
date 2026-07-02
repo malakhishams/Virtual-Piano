@@ -4,7 +4,7 @@ Play a virtual piano in the air — no physical keys, just your hands and a webc
 
 This project uses real-time hand tracking to detect finger positions over an on-screen piano layout and triggers the corresponding note when a "press" is detected.
 
-![Demo](image.png)
+![Demo](piano_image.png)
 
 ## How It Works
 
