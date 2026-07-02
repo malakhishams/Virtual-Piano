@@ -27,7 +27,8 @@ This project uses real-time hand tracking to detect finger positions over an on-
 virtual-piano/
 ├── README.md
 ├── requirements.txt
-├── main_piano.py           # entry point, captures webcam feed, ties tracker + piano together
+├── main_piano.py    # entry point, captures webcam feed, ties tracker + piano together
+├── piano_image.png
 ├── piano_hand_tracker.py   # HandDetector class wrapping MediaPipe (landmarks, fingertip IDs)
 ├── virtual_piano.py        # key layout, drawing, collision-based press detection, sound playback
 └── sounds/                  # C4.mp3, D4.mp3, ... E5.mp3
